@@ -4,7 +4,7 @@
 Conjunto de artículos de análisis estadístico creados por mi persona a lo largo de los cursos universitarios en colaboración con compañeros de carrera
 
 
-## Simulación.pdf:
+## Simulación.pdf
 
 ### Análisis de la potencia de la prueba ante la violación del supuesto de normalidad en un modelo lineal.
 
